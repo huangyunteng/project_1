@@ -1,0 +1,9 @@
+index,logistic
+loss_tr_l,"[0.4359, 0.4412]"
+loss_tr_m,0.43855
+loss_tr_std,0.0026499927
+auc_tr_l,"[0.5226, 0.4941]"
+auc_tr_m,0.50835
+auc_tr_s,0.014249999999999985
+loss_te,0.4386596
+auc_te,0.3285
